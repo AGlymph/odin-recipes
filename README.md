@@ -8,4 +8,5 @@ Lesson Learned:
 Review of HTML tags and elements
 Connecting files together in HTML
 Git and Terminal commands
+Reviewed basic CSS
 
